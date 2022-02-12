@@ -1,0 +1,6 @@
+Como usuario:
+
+quiero una aplicacion que abra un mapa con la veterinarias mas cercanas a mi
+quiero que dicha aplicacion me muestre su direccion, numero telefonico y los servicios que ofrecen
+para llevar a mi mascota dependiendo a sus necesidades
+
